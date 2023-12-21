@@ -1,0 +1,1 @@
+idea from the lxd command `lxc config edit...`
